@@ -13,7 +13,7 @@ For the GenHacks demo video. The video must be **up to 3 minutes**, uploaded to 
 
 **0:00 - Intro (show the Flashcards tab with the deck list)**
 
-"Hi, my name is Ibrahim, and this is StudyMate, a study helper I built for GenHacks. A lot of students revise with loose notes and a phone timer, and it is hard to know what you have actually covered. StudyMate puts flashcards, a quiz, a study timer and weekly targets in one place. It works in the browser, and everything is saved on your own device."
+"Hello, I am Ibrahim Yahaya from Bida, Niger State, Nigeria, a student at the Federal University of Technology Minna. This is StudyMate, a study helper I built for GenHacks. A lot of students revise with loose notes and a phone timer, and it is hard to know what you have actually covered. StudyMate puts flashcards, a quiz, a study timer and weekly targets in one place. It works in the browser, and everything is saved on your own device."
 
 **0:30 - Flashcards (click Study on Biology basics, flip a card, mark one "Know it", add a card)**
 

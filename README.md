@@ -53,9 +53,10 @@ npm run preview
 
 ## How it is built
 
-- React with Vite, plain CSS. No extra libraries, no backend, no database.
-- All data lives in localStorage as one JSON object (subjects, decks, sessions, timer settings).
-- The quiz builder, the shuffle and the weekly progress maths are plain functions in `src/lib.js`, kept separate from the UI so they can be tested on their own.
+- React with Vite and Tailwind CSS. The buttons, cards, inputs, badges and progress bars follow the shadcn/ui component patterns, written by hand in Tailwind so there is no heavy UI library to load.
+- The design is a notebook-and-desk look: warm ruled paper with a red margin line, coral-red and sky-blue pen-mark accents, sticky-note deck cards and a big circular focus timer. Headings use the Fredoka font and body text uses Nunito, both self-hosted in `public/fonts` so the app works fully offline.
+- No backend, no database. All data lives in localStorage as one JSON object (subjects, decks, sessions, timer settings).
+- The quiz builder, the shuffle and the weekly progress maths are plain functions in `src/lib.js`, kept separate from the UI so they can be tested on their own. Run the tests with `npm test`.
 
 ## What I would add next
 
